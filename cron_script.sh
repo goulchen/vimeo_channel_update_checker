@@ -1,4 +1,3 @@
 #!/bin/sh
 # run by cron!
-
-python /webhook.py
+python /check_vimeo_changes.py
